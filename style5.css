@@ -1,0 +1,15 @@
+
+
+*{
+    background: #000;
+}
+.container {
+    background-color: #000;
+    position: relative;
+    padding-left: 27%;
+
+}
+.container .img{
+    background-color: #000;
+
+}
